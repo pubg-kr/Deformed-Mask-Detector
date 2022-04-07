@@ -141,4 +141,4 @@ Made with :heart:&nbsp;  by [Chandrika Deb](https://github.com/chandrikadeb7)
 * [https://www.tensorflow.org/tutorials/images/transfer_learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 ## :eyes: License
-MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)-->
+##MIT © [Chandrika Deb](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/LICENSE)-->
